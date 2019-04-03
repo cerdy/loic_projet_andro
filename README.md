@@ -30,8 +30,9 @@ c'est elle grace à retrofit qui ira chercher les profils des utisaitateurs
 
 #partie amelioration
 
-Afin d'améliorer mon application je pense à implémenter les points suivants:
-  -troisième activité dans laquelle il sera possible de visualité les utilisateurs GITHUB les plus actifs en foction de la ville entrer par utilsateur 
-  -ajouter une image à appli
-  -ameliorer le graphisme des différents activités
-  -...
+   ###Afin d'améliorer mon application je pense à implémenter les points suivants:
+  
+    -troisième activité dans laquelle il sera possible de visualité les utilisateurs GITHUB les plus actifs en foction de la ville entrer par utilsateur 
+    -ajouter une image à appli
+    -ameliorer le graphisme des différents activités
+    -...
