@@ -8,11 +8,17 @@ comprendre les bases du développement mobile. ça realisation c'est étaller su
 ###Focntionalité attendu de application
 
   -Deux écrans : Un écran avec une liste et un écran avec un détail de l’item
+  
   -Appel WebService à une API Rest
+  
   -Stockage des données en cache
+  
   -Architecture ( MVC ou MVP ou MVVM ) 
+  
   -Animation entre écrans 
+  
   -Notifications Push ( Firebase ) 
+  
   -Autres fonctionnalités (libre, plus il y en a mieux c’est.)
 
 
