@@ -23,9 +23,15 @@ vous obtiendriez des détails sur lui (photo,nom,etc) et un lien vers sont "GITH
 
 #presentation-api
 
-API utilisée est 
+API utilisée est : https://api.github.com/search/users?q=language:java+location:paris
 c'est elle grace à retrofit qui ira chercher les profils des utisaitateurs
 
 
 
-#partie amelioration possblei"me annéé j'ai une application présenrtenta
+#partie amelioration
+
+Afin d'améliorer mon application je pense à implémenter les points suivants:
+  -troisième activité dans laquelle il sera possible de visualité les utilisateurs GITHUB les plus actifs en foction de la ville entrer par utilsateur 
+  -ajouter une image à appli
+  -ameliorer le graphisme des différents activités
+  -...
