@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application_loic</string> //JavaDevelopers
+    <string name="internet">No internet connection, Please make sure your device is connected to the internet</string>
+    <string name="username">Username</string>
+    <string name="github_profile_link">Github Profile Link</string>
+    <string name="todo">TODO</string>
+</resources>
